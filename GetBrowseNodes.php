@@ -27,7 +27,7 @@
  * For more details, refer: https://webservices.amazon.com/paapi5/documentation/getbrowsenodes.html
  */
 
-use Amazon\ProductAdvertisingAPI\v1\com\amazon\paapi5\v1\API\DefaultApi;
+use Amazon\ProductAdvertisingAPI\v1\com\amazon\paapi5\v1\api\DefaultApi;
 use Amazon\ProductAdvertisingAPI\v1\ApiException;
 use Amazon\ProductAdvertisingAPI\v1\Configuration;
 use Amazon\ProductAdvertisingAPI\v1\com\amazon\paapi5\v1\GetBrowseNodesRequest;
